@@ -35,5 +35,6 @@ export default ethan;
 ```
 
 ### Something to work on... 
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=epletcher72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ethan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epletcher72&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
