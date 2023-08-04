@@ -2,18 +2,18 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=250/>
 
-[![web logo](./assets/white/web.svg#gh-dark-mode-only)](https://ethanpletcher.com)
-[![web logo](./assets/black/web.svg#gh-light-mode-only)](https://ethanpletcher.com)
-[![mail logo](./assets/white/mail.svg#gh-dark-mode-only)](mailto:email@example.com)
-[![mail logo](./assets/black/mail.svg#gh-light-mode-only)](mailto:email@example.com)
-[![linkedin logo](./assets/white/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/epletcher72/)
-[![linkedin logo](./assets/black/linkedin.svg#gh-light-mode-only)](https://www.linkedin.com/in/epletcher72/)
-[![stackoverflow logo](./assets/white/stackoverflow.svg#gh-dark-mode-only)](https://stackoverflow.com/users/13955779/ethan-pletcher)
-[![stackoverflow logo](./assets/black/stackoverflow.svg#gh-light-mode-only)](https://stackoverflow.com/users/13955779/ethan-pletcher)
-[![facebook logo](./assets/white/facebook.svg#gh-dark-mode-only)](https://m.facebook.com/people/Ethan-Pletcher/100009251699454/)
-[![facebook logo](./assets/black/facebook.svg#gh-light-mode-only)](https://m.facebook.com/people/Ethan-Pletcher/100009251699454/)
-[![twitter logo](./assets/white/twitter.svg#gh-dark-mode-only)](https://twitter.com/ethanpletcher)
-[![twitter logo](./assets/black/twitter.svg#gh-light-mode-only)](https://twitter.com/ethanpletcher)
+[![web logo](./assets/white/web.svg#gh-dark-mode-only)](https://ethanpletcher.com#gh-dark-mode-only)
+[![web logo](./assets/black/web.svg#gh-light-mode-only)](https://ethanpletcher.com#gh-light-mode-only)
+[![mail logo](./assets/white/mail.svg#gh-dark-mode-only)](mailto:email@example.com#gh-dark-mode-only)
+[![mail logo](./assets/black/mail.svg#gh-light-mode-only)](mailto:email@example.com#gh-light-mode-only)
+[![linkedin logo](./assets/white/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/epletcher72/#gh-dark-mode-only)
+[![linkedin logo](./assets/black/linkedin.svg#gh-light-mode-only)](https://www.linkedin.com/in/epletcher72/#gh-light-mode-only)
+[![stackoverflow logo](./assets/white/stackoverflow.svg#gh-dark-mode-only)](https://stackoverflow.com/users/13955779/ethan-pletcher#gh-dark-mode-only)
+[![stackoverflow logo](./assets/black/stackoverflow.svg#gh-light-mode-only)](https://stackoverflow.com/users/13955779/ethan-pletcher#gh-light-mode-only)
+[![facebook logo](./assets/white/facebook.svg#gh-dark-mode-only)](https://m.facebook.com/people/Ethan-Pletcher/100009251699454/#gh-dark-mode-only)
+[![facebook logo](./assets/black/facebook.svg#gh-light-mode-only)](https://m.facebook.com/people/Ethan-Pletcher/100009251699454/#gh-light-mode-only)
+[![twitter logo](./assets/white/twitter.svg#gh-dark-mode-only)](https://twitter.com/ethanpletcher#gh-dark-mode-only)
+[![twitter logo](./assets/black/twitter.svg#gh-light-mode-only)](https://twitter.com/ethanpletcher#gh-light-mode-only)
 
 ## About me
 
