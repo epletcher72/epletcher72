@@ -1,6 +1,7 @@
 # Hey everyone! I'm Ethan &middot; <img src="https://media.giphy.com/media/6Vx4LpPLVTqTe/giphy.gif" width="40">
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=250/>
+<img align="right" src="./assets/black/github.gif#gh-light-mode-only" height=250 />
+<img align="right" src="./assets/white/github.gif#gh-dark-mode-only" height=250 />
 
 [![web logo](./assets/white/web.svg#gh-dark-mode-only)](https://ethanpletcher.com#gh-dark-mode-only)
 [![web logo](./assets/black/web.svg#gh-light-mode-only)](https://ethanpletcher.com#gh-light-mode-only)
