@@ -2,7 +2,18 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=250/>
 
-<div><a href="https://ethanpletcher.com"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/web.svg" width="45" /></a><a href="mailto:email@example.com"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/mail.svg" width="45" /></a><a href="https://www.linkedin.com/in/epletcher72/"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/linkedin.svg" width="45" /></a><a href="https://stackoverflow.com/users/13955779/ethan-pletcher"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/stackoverflow.svg" width="45" /></a><a href="https://m.facebook.com/people/Ethan-Pletcher/100009251699454/"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/facebook.svg" width="45" /></a><a href="https://twitter.com/ethanpletcher"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/twitter.svg" width="45" /></div>
+[![web logo](./assets/white/web.svg#gh-dark-mode-only)](https://ethanpletcher.com)
+[![web logo](./assets/black/web.svg#gh-light-mode-only)](https://ethanpletcher.com)
+[![mail logo](./assets/white/mail.svg#gh-dark-mode-only)](mailto:email@example.com)
+[![mail logo](./assets/black/mail.svg#gh-light-mode-only)](mailto:email@example.com)
+[![linkedin logo](./assets/white/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/epletcher72/)
+[![linkedin logo](./assets/black/linkedin.svg#gh-light-mode-only)](https://www.linkedin.com/in/epletcher72/)
+[![stackoverflow logo](./assets/white/stackoverflow.svg#gh-dark-mode-only)](https://stackoverflow.com/users/13955779/ethan-pletcher)
+[![stackoverflow logo](./assets/black/stackoverflow.svg#gh-light-mode-only)](https://stackoverflow.com/users/13955779/ethan-pletcher)
+[![facebook logo](./assets/white/facebook.svg#gh-dark-mode-only)](https://m.facebook.com/people/Ethan-Pletcher/100009251699454/)
+[![facebook logo](./assets/black/facebook.svg#gh-light-mode-only)](https://m.facebook.com/people/Ethan-Pletcher/100009251699454/)
+[![twitter logo](./assets/white/twitter.svg#gh-dark-mode-only)](https://twitter.com/ethanpletcher)
+[![twitter logo](./assets/black/twitter.svg#gh-light-mode-only)](https://twitter.com/ethanpletcher)
 
 ## About me
 
