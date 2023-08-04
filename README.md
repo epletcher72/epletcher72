@@ -1,10 +1,14 @@
-# Hey everyone! I'm Ethan &middot; <img src="https://media.giphy.com/media/6Vx4LpPLVTqTe/giphy.gif" width="60"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/epletcher72/google-drive-cron-backup/tree/master#Contributing) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/epletcher72/google-drive-cron-backup/tree/master#Contributing)
+# Hey everyone! I'm Ethan &middot; <img src="https://media.giphy.com/media/6Vx4LpPLVTqTe/giphy.gif" width="40">
 
-**About me**
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=250/>
 
-I'm a student at UCSB and a developer at several early-stage startups. I prefer the creativity and open-ended nature of frontend work, but I also love the backend. Feel free to reach out to me about anything by email or [here](https://github.com/epletcher72/epletcher72/issues)
+<div><a href="https://ethanpletcher.com"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/web.svg" width="45" /></a><a href="mailto:email@example.com"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/mail.svg" width="45" /></a><a href="https://www.linkedin.com/in/epletcher72/"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/linkedin.svg" width="45" /></a><a href="https://stackoverflow.com/users/13955779/ethan-pletcher"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/stackoverflow.svg" width="45" /></a><a href="https://m.facebook.com/people/Ethan-Pletcher/100009251699454/"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/facebook.svg" width="45" /></a><a href="https://twitter.com/ethanpletcher"><img src="https://github.com/epletcher72/epletcher72/blob/master/assets/twitter.svg" width="45" /></div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## About me
+
+I'm a student at UCSB and a developer at several early-stage startups. I prefer the creativity and open-ended nature of frontend work, but I also love the backend. I have mainly been doing private projects, but I would love to get more involved in the Oopen source community going forward. Feel free to reach out to me about anything by email or [here](https://github.com/epletcher72/epletcher72/issues)
+
+### A little more about me...  
 
 ```typescript
 const currentRoles:RoleMap = {
@@ -19,7 +23,8 @@ const contactInfo:ContactMap = {
 
 const ethan: Developer = {
     languages: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C++"],
-    tools: ["React", "React Native", "Redux", "Node", "Github", "Git", "Vim", "Unix" "Shell", "Anaconda", "Pandas", "Docker"],
+    tools: ["React", "React Native", "Redux", "Node", "Github", "Git", "Vim", "Unix"
+            "Shell", "Anaconda", "Pandas", "Docker"],
     focus: TechStack.FRONTEND,
     currentRoles,
     contactInfo,
@@ -29,6 +34,7 @@ const ethan: Developer = {
 export default ethan;
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+### Something to work on... 
 
----
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=epletcher72&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ethan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epletcher72&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
